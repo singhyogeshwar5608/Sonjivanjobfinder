@@ -1,0 +1,13 @@
+{
+    "name": "sonjivan/job-finder-backend",
+    "description": "Job Finder Backend API",
+    "require": {
+        "php": ">=7.4",
+        "setasign/fpdf": "^1.8"
+    },
+    "autoload": {
+        "files": [
+            "vendor/setasign/fpdf/fpdf.php"
+        ]
+    }
+}
