@@ -191,7 +191,7 @@ const LandingPage = () => {
               ))}
               <a
                 href="/admin/login"
-                className="inline-flex items-center bg-[#2563eb] text-white font-semibold px-4 py-2 rounded-full border border-[#1d4ed8]/20 hover:bg-[#1d4ed8]"
+                className="inline-flex items-center bg-[#7c3aed] text-white font-semibold px-4 py-2 rounded-full border border-[#6d28d9]/20 hover:bg-[#6d28d9]"
               >
                 Admin
               </a>
@@ -220,7 +220,7 @@ const LandingPage = () => {
               ))}
               <a
                 href="/admin/login"
-                className="block text-center text-white font-semibold rounded-lg px-3 py-2 bg-[#2563eb] hover:bg-[#1d4ed8]"
+                className="block text-center text-white font-semibold rounded-lg px-3 py-2 bg-[#7c3aed] hover:bg-[#6d28d9]"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Admin
